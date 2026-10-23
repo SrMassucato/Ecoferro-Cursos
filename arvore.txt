@@ -1,25 +1,25 @@
 cursos-ecoferro/
-├── README.md                 [1] obrigatório
-├── .gitignore                [1] obrigatório
-├── requirements.txt          [2] recomendado (quando começar o Python)
-├── .env.example              [op] só se surgir alguma configuração
+├── README.md
+├── .gitignore
+├── requirements.txt
+├── .env.example
 │
 ├── docs/
-│   └── arquitetura.md        [1] recomendado (esta proposta, depois de aprovada)
+│   └── arquitetura.md
 │
 ├── data/
-│   └── cursos.json           [1] obrigatório (lista de cursos)
+│   └── cursos.json
 │
 ├── frontend/
-│   ├── index.html            [1] obrigatório (lista de cursos)
-│   ├── curso.html            [2] obrigatório (página de um curso)
+│   ├── index.html
+│   ├── curso.html
 │   ├── css/
-│   │   └── estilo.css        [1] obrigatório
+│   │   └── estilo.css
 │   └── js/
-│       └── app.js            [2] obrigatório (carrega os cursos na página)
+│       └── app.js
 │
 ├── backend/
-│   └── app.py                [2] obrigatório (API em Python)
+│   └── app.py
 │
 └── notebooks/
-    └── exploracao.ipynb      [op] experimentos no Google Colab
+    └── exploracao.ipynb
