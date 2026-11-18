@@ -118,4 +118,4 @@ Não envie ao repositório senhas, tokens, chaves de API ou o arquivo `.env`. O 
 
 ## Autor
 
-*Seu nome aqui*
+Bruno Felipe Silva Massucato
